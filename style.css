@@ -75,3 +75,13 @@ i{
     font-size: 18px;
     font-weight: bolder;
 }
+footer{
+    position: absolute;
+    bottom: 0;
+    height: 20px;
+    width: 100%;
+    text-align: center;
+}
+.name{
+    color: rgb(255, 0, 0);
+}
